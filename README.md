@@ -75,9 +75,13 @@ Result:
 We can see the output in render.com link [ https://hall-bookingapi-u9dd.onrender.com ]
 
  --> https://hall-bookingapi-u9dd.onrender.com/rooms/create[post method]
+ 
  --> https://hall-bookingapi-u9dd.onrender.com/bookings[post method]
+ 
  --> https://hall-bookingapi-u9dd.onrender.com/rooms[Get method]
+ 
  --> https://hall-bookingapi-u9dd.onrender.com/get-customers[Get method]
+ 
  --> https://hall-bookingapi-u9dd.onrender.comcustomer-bookings/John[Get method]
 
 
