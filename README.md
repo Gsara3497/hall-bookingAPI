@@ -16,7 +16,7 @@ step2: - Create an empty directory
 
 step3: vs code -> to create .gitignore file and index.js file and README.md file for the task
 
-step4: Then i use [postman] App for get my result.
+step4: Then i use [postman] App -> Add collection -> then create [ nodejs-38 ] -> Then Add GET Request for get my result.
 
 step5: Then deployed for github and Render.com
 
